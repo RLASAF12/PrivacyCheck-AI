@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to the private repo RLASAF12/legal-archive (folder `PrivacyCheck-AI/`, full history preserved). Archived 2026-10-04.
+
 # PrivacyCheck AI
 
 ### AI-Powered GDPR & CCPA Compliance Checker
